@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-el2ibf.shadowdiary.com/sitemap.xml
